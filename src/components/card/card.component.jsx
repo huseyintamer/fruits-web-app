@@ -3,6 +3,7 @@ import './card.styles.css';
 export const Card = props=> (
     <div className={'card-container'}>
         <img src={props.fruit.imageurl} alt="fruit"/>
-        <h1 >{props.fruit.tfvname} </h1>
+        <h3 >{props.fruit.tfvname} </h3>
+        <p >{props.fruit.botname} </p>    
 </div>
 );
