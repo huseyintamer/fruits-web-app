@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fruits-web-app/static/css/main.0013ecc8.chunk.css",
+    "main.js": "/fruits-web-app/static/js/main.6af38bb9.chunk.js",
+    "main.js.map": "/fruits-web-app/static/js/main.6af38bb9.chunk.js.map",
+    "runtime-main.js": "/fruits-web-app/static/js/runtime-main.6f620a74.js",
+    "runtime-main.js.map": "/fruits-web-app/static/js/runtime-main.6f620a74.js.map",
+    "static/js/2.acfe5c37.chunk.js": "/fruits-web-app/static/js/2.acfe5c37.chunk.js",
+    "static/js/2.acfe5c37.chunk.js.map": "/fruits-web-app/static/js/2.acfe5c37.chunk.js.map",
+    "static/js/3.e23944c5.chunk.js": "/fruits-web-app/static/js/3.e23944c5.chunk.js",
+    "static/js/3.e23944c5.chunk.js.map": "/fruits-web-app/static/js/3.e23944c5.chunk.js.map",
+    "index.html": "/fruits-web-app/index.html",
+    "static/css/main.0013ecc8.chunk.css.map": "/fruits-web-app/static/css/main.0013ecc8.chunk.css.map",
+    "static/js/2.acfe5c37.chunk.js.LICENSE.txt": "/fruits-web-app/static/js/2.acfe5c37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f620a74.js",
+    "static/js/2.acfe5c37.chunk.js",
+    "static/css/main.0013ecc8.chunk.css",
+    "static/js/main.6af38bb9.chunk.js"
+  ]
+}
