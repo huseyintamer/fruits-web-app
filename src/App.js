@@ -19,6 +19,10 @@ export default class App extends Component {
  
   }
   render() {
+    const { Fruits, searchField } = this.state;
+    const FilteredFruits = Fruits.filter(fruit =>
+      fruit.tfvname.toLowerCase().includes(searchField.toLowerCase())
+      )
     return (
       <div className="App">
         <input 
@@ -26,7 +30,7 @@ export default class App extends Component {
         type='search'
         onChange={(p)=> this.setState({searchField: p.target.value}, ()=> console.log(this.state.searchField))}
         />
-           <CardList fruits={this.state.Fruits}/>
+           <CardList fruits={FilteredFruits}/>
       </div>
     )
   }
